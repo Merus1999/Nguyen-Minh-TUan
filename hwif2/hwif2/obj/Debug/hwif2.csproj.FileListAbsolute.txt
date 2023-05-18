@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\hwif2\hwif2\bin\Debug\hwif2.exe.config
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\hwif2\hwif2\bin\Debug\hwif2.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\hwif2\hwif2\bin\Debug\hwif2.pdb
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\hwif2\hwif2\obj\Debug\hwif2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\hwif2\hwif2\obj\Debug\hwif2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\hwif2\hwif2\obj\Debug\hwif2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\hwif2\hwif2\obj\Debug\hwif2.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\hwif2\hwif2\obj\Debug\hwif2.pdb
