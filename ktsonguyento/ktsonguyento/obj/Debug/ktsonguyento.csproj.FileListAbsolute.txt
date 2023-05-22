@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\ktsonguyento\ktsonguyento\obj\Debug\ktsonguyento.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\ktsonguyento\ktsonguyento\obj\Debug\ktsonguyento.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\ktsonguyento\ktsonguyento\obj\Debug\ktsonguyento.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\ktsonguyento\ktsonguyento\bin\Debug\ktsonguyento.exe.config
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\ktsonguyento\ktsonguyento\bin\Debug\ktsonguyento.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\ktsonguyento\ktsonguyento\bin\Debug\ktsonguyento.pdb
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\ktsonguyento\ktsonguyento\obj\Debug\ktsonguyento.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\ktsonguyento\ktsonguyento\obj\Debug\ktsonguyento.pdb
