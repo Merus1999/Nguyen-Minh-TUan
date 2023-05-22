@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\cacloaihinh\cacloaihinh\obj\Debug\cacloaihinh.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\cacloaihinh\cacloaihinh\obj\Debug\cacloaihinh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\cacloaihinh\cacloaihinh\obj\Debug\cacloaihinh.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\cacloaihinh\cacloaihinh\bin\Debug\cacloaihinh.exe.config
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\cacloaihinh\cacloaihinh\bin\Debug\cacloaihinh.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\cacloaihinh\cacloaihinh\bin\Debug\cacloaihinh.pdb
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\cacloaihinh\cacloaihinh\obj\Debug\cacloaihinh.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\cacloaihinh\cacloaihinh\obj\Debug\cacloaihinh.pdb
