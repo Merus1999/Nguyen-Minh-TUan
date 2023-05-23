@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tinhtong1\tinhtong1\bin\Debug\tinhtong1.exe.config
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tinhtong1\tinhtong1\bin\Debug\tinhtong1.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tinhtong1\tinhtong1\bin\Debug\tinhtong1.pdb
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tinhtong1\tinhtong1\obj\Debug\tinhtong1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tinhtong1\tinhtong1\obj\Debug\tinhtong1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tinhtong1\tinhtong1\obj\Debug\tinhtong1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tinhtong1\tinhtong1\obj\Debug\tinhtong1.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tinhtong1\tinhtong1\obj\Debug\tinhtong1.pdb
