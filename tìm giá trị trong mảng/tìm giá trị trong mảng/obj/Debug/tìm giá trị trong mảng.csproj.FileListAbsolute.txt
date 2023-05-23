@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tìm giá trị trong mảng\tìm giá trị trong mảng\bin\Debug\tìm giá trị trong mảng.exe.config
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tìm giá trị trong mảng\tìm giá trị trong mảng\bin\Debug\tìm giá trị trong mảng.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tìm giá trị trong mảng\tìm giá trị trong mảng\bin\Debug\tìm giá trị trong mảng.pdb
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tìm giá trị trong mảng\tìm giá trị trong mảng\obj\Debug\tìm giá trị trong mảng.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tìm giá trị trong mảng\tìm giá trị trong mảng\obj\Debug\tìm giá trị trong mảng.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tìm giá trị trong mảng\tìm giá trị trong mảng\obj\Debug\tìm giá trị trong mảng.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tìm giá trị trong mảng\tìm giá trị trong mảng\obj\Debug\tìm giá trị trong mảng.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tìm giá trị trong mảng\tìm giá trị trong mảng\obj\Debug\tìm giá trị trong mảng.pdb
