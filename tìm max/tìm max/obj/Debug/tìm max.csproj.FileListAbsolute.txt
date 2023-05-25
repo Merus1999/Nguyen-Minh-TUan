@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tìm max\tìm max\bin\Debug\tìm max.exe.config
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tìm max\tìm max\bin\Debug\tìm max.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tìm max\tìm max\bin\Debug\tìm max.pdb
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tìm max\tìm max\obj\Debug\tìm max.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tìm max\tìm max\obj\Debug\tìm max.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tìm max\tìm max\obj\Debug\tìm max.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tìm max\tìm max\obj\Debug\tìm max.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tìm max\tìm max\obj\Debug\tìm max.pdb
