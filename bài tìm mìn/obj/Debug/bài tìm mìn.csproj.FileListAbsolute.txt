@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\ConsoleApp\bài tìm mìn\bin\Debug\bài tìm mìn.exe.config
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\ConsoleApp\bài tìm mìn\bin\Debug\bài tìm mìn.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\ConsoleApp\bài tìm mìn\bin\Debug\bài tìm mìn.pdb
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\ConsoleApp\bài tìm mìn\obj\Debug\bài tìm mìn.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\ConsoleApp\bài tìm mìn\obj\Debug\bài tìm mìn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\ConsoleApp\bài tìm mìn\obj\Debug\bài tìm mìn.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\ConsoleApp\bài tìm mìn\obj\Debug\bài tìm mìn.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\ConsoleApp\bài tìm mìn\obj\Debug\bài tìm mìn.pdb
