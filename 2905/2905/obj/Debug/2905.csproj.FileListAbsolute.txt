@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\2905\2905\obj\Debug\2905.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\2905\2905\obj\Debug\2905.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\2905\2905\obj\Debug\2905.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\2905\2905\bin\Debug\2905.exe.config
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\2905\2905\bin\Debug\2905.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\2905\2905\bin\Debug\2905.pdb
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\2905\2905\obj\Debug\2905.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\2905\2905\obj\Debug\2905.pdb
