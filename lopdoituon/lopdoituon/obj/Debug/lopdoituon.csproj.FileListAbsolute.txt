@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\lopdoituon\lopdoituon\obj\Debug\lopdoituon.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\lopdoituon\lopdoituon\obj\Debug\lopdoituon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\lopdoituon\lopdoituon\obj\Debug\lopdoituon.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\lopdoituon\lopdoituon\bin\Debug\lopdoituon.exe.config
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\lopdoituon\lopdoituon\bin\Debug\lopdoituon.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\lopdoituon\lopdoituon\bin\Debug\lopdoituon.pdb
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\lopdoituon\lopdoituon\obj\Debug\lopdoituon.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\lopdoituon\lopdoituon\obj\Debug\lopdoituon.pdb
