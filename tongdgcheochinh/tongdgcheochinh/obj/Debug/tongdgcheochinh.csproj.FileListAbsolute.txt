@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tongdgcheochinh\tongdgcheochinh\bin\Debug\tongdgcheochinh.exe.config
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tongdgcheochinh\tongdgcheochinh\bin\Debug\tongdgcheochinh.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tongdgcheochinh\tongdgcheochinh\bin\Debug\tongdgcheochinh.pdb
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tongdgcheochinh\tongdgcheochinh\obj\Debug\tongdgcheochinh.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tongdgcheochinh\tongdgcheochinh\obj\Debug\tongdgcheochinh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tongdgcheochinh\tongdgcheochinh\obj\Debug\tongdgcheochinh.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tongdgcheochinh\tongdgcheochinh\obj\Debug\tongdgcheochinh.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\tongdgcheochinh\tongdgcheochinh\obj\Debug\tongdgcheochinh.pdb
