@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\gtln(mang2chieu)\gtln(mang2chieu)\bin\Debug\gtln(mang2chieu).exe.config
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\gtln(mang2chieu)\gtln(mang2chieu)\bin\Debug\gtln(mang2chieu).exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\gtln(mang2chieu)\gtln(mang2chieu)\bin\Debug\gtln(mang2chieu).pdb
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\gtln(mang2chieu)\gtln(mang2chieu)\obj\Debug\gtln(mang2chieu).csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\gtln(mang2chieu)\gtln(mang2chieu)\obj\Debug\gtln(mang2chieu).csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\gtln(mang2chieu)\gtln(mang2chieu)\obj\Debug\gtln(mang2chieu).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\gtln(mang2chieu)\gtln(mang2chieu)\obj\Debug\gtln(mang2chieu).exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\gtln(mang2chieu)\gtln(mang2chieu)\obj\Debug\gtln(mang2chieu).pdb
