@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\dungphuongthuctimMin\dungphuongthuctimMin\bin\Debug\dungphuongthuctimMin.exe.config
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\dungphuongthuctimMin\dungphuongthuctimMin\bin\Debug\dungphuongthuctimMin.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\dungphuongthuctimMin\dungphuongthuctimMin\bin\Debug\dungphuongthuctimMin.pdb
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\dungphuongthuctimMin\dungphuongthuctimMin\obj\Debug\dungphuongthuctimMin.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\dungphuongthuctimMin\dungphuongthuctimMin\obj\Debug\dungphuongthuctimMin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\dungphuongthuctimMin\dungphuongthuctimMin\obj\Debug\dungphuongthuctimMin.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\dungphuongthuctimMin\dungphuongthuctimMin\obj\Debug\dungphuongthuctimMin.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\dungphuongthuctimMin\dungphuongthuctimMin\obj\Debug\dungphuongthuctimMin.pdb
