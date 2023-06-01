@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\chuyendoinhietdo\chuyendoinhietdo\obj\Debug\chuyendoinhietdo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\chuyendoinhietdo\chuyendoinhietdo\obj\Debug\chuyendoinhietdo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\chuyendoinhietdo\chuyendoinhietdo\obj\Debug\chuyendoinhietdo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\chuyendoinhietdo\chuyendoinhietdo\bin\Debug\chuyendoinhietdo.exe.config
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\chuyendoinhietdo\chuyendoinhietdo\bin\Debug\chuyendoinhietdo.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\chuyendoinhietdo\chuyendoinhietdo\bin\Debug\chuyendoinhietdo.pdb
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\chuyendoinhietdo\chuyendoinhietdo\obj\Debug\chuyendoinhietdo.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\chuyendoinhietdo\chuyendoinhietdo\obj\Debug\chuyendoinhietdo.pdb
