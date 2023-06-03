@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\dungphuongthucxoaphantumang\dungphuongthucxoaphantumang\obj\Debug\dungphuongthucxoaphantumang.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\dungphuongthucxoaphantumang\dungphuongthucxoaphantumang\obj\Debug\dungphuongthucxoaphantumang.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\dungphuongthucxoaphantumang\dungphuongthucxoaphantumang\obj\Debug\dungphuongthucxoaphantumang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\dungphuongthucxoaphantumang\dungphuongthucxoaphantumang\bin\Debug\dungphuongthucxoaphantumang.exe.config
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\dungphuongthucxoaphantumang\dungphuongthucxoaphantumang\bin\Debug\dungphuongthucxoaphantumang.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\dungphuongthucxoaphantumang\dungphuongthucxoaphantumang\bin\Debug\dungphuongthucxoaphantumang.pdb
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\dungphuongthucxoaphantumang\dungphuongthucxoaphantumang\obj\Debug\dungphuongthucxoaphantumang.exe
+C:\Users\Administrator\Desktop\code c#\visualstudiocodegym c#\dungphuongthucxoaphantumang\dungphuongthucxoaphantumang\obj\Debug\dungphuongthucxoaphantumang.pdb
